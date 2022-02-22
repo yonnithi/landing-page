@@ -47,6 +47,11 @@ ul {
     font-size: 30px;
     font-weight: 900;
 }
+img.sova {
+    width: 250px;
+    padding: 0;
+    margin: 0;
+}
 
 .main-two {
     display: flex;

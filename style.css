@@ -72,6 +72,9 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 250px;
+    width: 200px;
+    background-color: rgb(34, 34, 34);
 
 }
 
@@ -86,6 +89,7 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: aqua;
 }
 .quote {
 
@@ -106,7 +110,11 @@ ul {
 .ad {
     display: flex;
     flex-direction: row;
+    background-color: aqua;
 
+}
+.signup-ad {
+    padding: 0;
 }
 
 .footer {

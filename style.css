@@ -75,13 +75,14 @@ ul {
     height: 130px;
     width: 200px;
     background-color: rgb(165, 25, 25);
-    gap: 15px;
+    gap: 8px;
 
 }
 .icon {
     display: flex;
-    padding: ;
+    font-weight: bold;
 }
+
 
 .main-three {
     display: flex;
